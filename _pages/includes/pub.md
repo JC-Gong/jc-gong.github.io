@@ -63,3 +63,17 @@ Huanhuan Li, **Jincheng Gong**, Zaili Yang
 - Future directions focus on AI, digital twins, LLMs, and multimodal Transformers for autonomous maritime systems.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Book chapter</div><img src='images/SDT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Applications of ship digital twins in maritime transport: A systematic review](https://www.sciencedirect.com/science/article/pii/S002980182604045X) \\
+Huanhuan Li, **Jincheng Gong**, Alan J. Murphy, Zaili Yang
+<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:UeHWp8X0CEIC'></span></strong>
+- Develops a two-stage analytical framework for ship digital twin research.
+- Maps the evolution of ship digital twins through scientometric analysis.
+- Evaluates ship digital twin studies from modelling, system, and validation perspectives.
+- Clarifies the distinction between digital shadows and bidirectional digital twins.
+- Identifies deployment challenges and future directions for ship digital twins.
+</div>
+</div>

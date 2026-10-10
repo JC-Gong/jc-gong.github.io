@@ -18,7 +18,7 @@
   ],
   "email_domain": "@std.uestc.edu.cn",
   "homepage": "https://jc-gong.github.io/",
-  "citedby": 47,
+  "citedby": 50,
   "publications": {
     "RWWijlcAAAAJ:u5HHmVD_uO8C": {
       "container_type": "Publication",
@@ -30,7 +30,7 @@
       },
       "filled": false,
       "author_pub_id": "RWWijlcAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 29,
+      "num_citations": 31,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15052481282793386037",
       "cites_id": [
         "15052481282793386037"
@@ -46,7 +46,7 @@
       },
       "filled": false,
       "author_pub_id": "RWWijlcAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 17,
+      "num_citations": 18,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17198769545313879669",
       "cites_id": [
         "17198769545313879669"
@@ -68,6 +68,18 @@
         "17534990942758526253"
       ]
     },
+    "RWWijlcAAAAJ:UeHWp8X0CEIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Applications of ship digital twins in maritime transport: A systematic review",
+        "pub_year": "2026",
+        "citation": "Ocean Engineering 367, 128211, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "RWWijlcAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
     "RWWijlcAAAAJ:qjMakFHDy7sC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -81,14 +93,14 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 47,
+  "citedby5y": 50,
   "hindex": 2,
   "hindex5y": 2,
   "i10index": 2,
   "i10index5y": 2,
   "cites_per_year": {
     "2025": 2,
-    "2026": 42
+    "2026": 45
   },
-  "updated": "2026-09-29 09:39:31.946140"
+  "updated": "2026-10-10 18:44:47.880094"
 }
