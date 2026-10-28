@@ -18,7 +18,7 @@
   ],
   "email_domain": "@std.uestc.edu.cn",
   "homepage": "https://jc-gong.github.io/",
-  "citedby": 53,
+  "citedby": 56,
   "publications": {
     "RWWijlcAAAAJ:u5HHmVD_uO8C": {
       "container_type": "Publication",
@@ -30,7 +30,7 @@
       },
       "filled": false,
       "author_pub_id": "RWWijlcAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 33,
+      "num_citations": 34,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15052481282793386037",
       "cites_id": [
         "15052481282793386037"
@@ -62,7 +62,7 @@
       },
       "filled": false,
       "author_pub_id": "RWWijlcAAAAJ:2osOgNQ5qMEC",
-      "num_citations": 1,
+      "num_citations": 3,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17534990942758526253",
       "cites_id": [
         "17534990942758526253"
@@ -93,14 +93,14 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 53,
-  "hindex": 2,
-  "hindex5y": 2,
+  "citedby5y": 56,
+  "hindex": 3,
+  "hindex5y": 3,
   "i10index": 2,
   "i10index5y": 2,
   "cites_per_year": {
     "2025": 2,
-    "2026": 48
+    "2026": 51
   },
-  "updated": "2026-10-27 19:51:06.092403"
+  "updated": "2026-10-28 14:32:47.105987"
 }
