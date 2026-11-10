@@ -78,4 +78,32 @@ Huanhuan Li, **Jincheng Gong**, Alan J. Murphy, Zaili Yang
 - Clarifies the distinction between digital shadows and bidirectional digital twins.
 - Identifies deployment challenges and future directions for ship digital twins.
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ocean Engineering</div><img src='images/SDT.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Applications of ship digital twins in maritime transport: A systematic review](https://www.sciencedirect.com/science/article/pii/S002980182604045X) \\
+Huanhuan Li, **Jincheng Gong**, Alan J. Murphy, Zaili Yang
+
+<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+- Develops a two-stage analytical framework for ship digital twin research.
+- Maps the evolution of ship digital twins through scientometric analysis.
+- Evaluates ship digital twin studies from modelling, system, and validation perspectives.
+- Clarifies the distinction between digital shadows and bidirectional digital twins.
+- Identifies deployment challenges and future directions for ship digital twins.
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/mc-qra.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+[MC-QRA: Quantitative Spatiotemporal Risk Assessment and Probabilistic Dependency Analysis of Maritime Cyber Attacks](https://www.sciencedirect.com/science/article/pii/S095183202601625X) \\
+**Jincheng Gong**, Yunfeng Zhao, Huanhuan Li, Zaili Yang
+
+<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:IjCSPb-OGe4C'></span></strong>
+- A quantitative framework integrates scenario-based and spatiotemporal maritime cyber risk assessment.
+- Empirical cyber incident records support interpretable risk classification and quantification.
+- High-risk attack scenarios and spatiotemporal patterns of cyber incidents are identified.
+- Bayesian modelling captures dependencies among risk-influencing factors.
+- Dependency-aware inference supports the assessment of high-risk maritime cyber scenarios.
+</div>
+
 </div>

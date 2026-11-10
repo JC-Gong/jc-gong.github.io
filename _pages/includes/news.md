@@ -3,3 +3,4 @@
 - *2025.12*: 🎉 A paper is accepted by *Transportation Research Part E: Logistics and Transportation Review*
 - *2026.06*: 🎉 A paper is accepted by *Transport Policy*
 - *2026.09*: 🎉 A paper is accepted by *Ocean Engineering*
+- *2026.11*: 🎉 A paper is accepted by *Reliability Engineering & System Safety*
