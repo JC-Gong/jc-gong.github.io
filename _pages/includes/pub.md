@@ -78,7 +78,7 @@ Huanhuan Li, **Jincheng Gong**, Alan J. Murphy, Zaili Yang
 - Clarifies the distinction between digital shadows and bidirectional digital twins.
 - Identifies deployment challenges and future directions for ship digital twins.
 </div>
-
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/mc-qra.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,5 +92,4 @@ Huanhuan Li, **Jincheng Gong**, Alan J. Murphy, Zaili Yang
 - Bayesian modelling captures dependencies among risk-influencing factors.
 - Dependency-aware inference supports the assessment of high-risk maritime cyber scenarios.
 </div>
-
 </div>
