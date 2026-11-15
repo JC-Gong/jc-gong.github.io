@@ -85,7 +85,7 @@ Huanhuan Li, **Jincheng Gong**, Alan J. Murphy, Zaili Yang
 [MC-QRA: Quantitative Spatiotemporal Risk Assessment and Probabilistic Dependency Analysis of Maritime Cyber Attacks](https://www.sciencedirect.com/science/article/pii/S095183202601625X) \\
 **Jincheng Gong**, Yunfeng Zhao, Huanhuan Li, Zaili Yang
 
-<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:IjCSPb-OGe4C'></span></strong>
+[**Project**](https://github.com/JC-Gong/MC-QRA)  **\|** ![LLM4STP](https://img.shields.io/github/stars/jc-gong/MC-QRA?style=social) <strong><span class='show_paper_citations' data='RWWijlcAAAAJ:IjCSPb-OGe4C'></span></strong>
 - A quantitative framework integrates scenario-based and spatiotemporal maritime cyber risk assessment.
 - Empirical cyber incident records support interpretable risk classification and quantification.
 - High-risk attack scenarios and spatiotemporal patterns of cyber incidents are identified.
@@ -99,7 +99,7 @@ Huanhuan Li, **Jincheng Gong**, Alan J. Murphy, Zaili Yang
 [A data-driven framework for spatiotemporal pattern mining of cyber incidents in digital maritime transport systems](https://www.sciencedirect.com/science/article/pii/S0029801826052662) \\
 Huanhuan Li, **Jincheng Gong**, Yunfeng Zhao, Zaili Yang
 
-<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[**Project**](https://github.com/JC-Gong/maritime-cyberattack-ST-mining)  **\|** ![LLM4STP](https://img.shields.io/github/stars/jc-gong/maritime-cyberattack-ST-mining?style=social) <strong><span class='show_paper_citations' data='RWWijlcAAAAJ:zYLM7Y9cAGgC'></span></strong>
 - Developed a data-driven framework for spatiotemporal maritime cyber risk analysis.
 - Constructed MCAD++ to enable structured analysis of maritime cyber incidents.
 - Examined cyber threat associations and temporal relationships using association rules and transfer entropy.
