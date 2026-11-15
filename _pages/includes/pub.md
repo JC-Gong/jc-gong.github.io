@@ -93,3 +93,16 @@ Huanhuan Li, **Jincheng Gong**, Alan J. Murphy, Zaili Yang
 - Dependency-aware inference supports the assessment of high-risk maritime cyber scenarios.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ocean Engineering</div><img src='images/mc-stm.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A data-driven framework for spatiotemporal pattern mining of cyber incidents in digital maritime transport systems](https://www.sciencedirect.com/science/article/pii/S0029801826052662) \\
+Huanhuan Li, **Jincheng Gong**, Yunfeng Zhao, Zaili Yang
+
+<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:zYLM7Y9cAGgC'></span></strong>
+- Developed a data-driven framework for spatiotemporal maritime cyber risk analysis.
+- Constructed MCAD++ to enable structured analysis of maritime cyber incidents.
+- Examined cyber threat associations and temporal relationships using association rules and transfer entropy.
+- Explored spatial patterns of maritime cyber incidents using HDBSCAN and Moran's I.
+</div>
+</div>
